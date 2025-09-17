@@ -1,4 +1,4 @@
-# Ear Detection - 14,000+ Images
+# Identity Verification Dataset - 1,215 Videos
 This dataset contains a collection of **45** individuals, with **1,215** video clips and **405** audio recordings, created to advance the field of video-based **KYC** and **digital identity verification**.— **[Get the data](https://unidata.pro/datasets/speech-and-emotion-video-dataset-for-kyc-verification/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=kyc-verification-dataset)**
 
 ## Dataset characteristics:
